@@ -6,14 +6,13 @@
 -->
 <html>
 	<head>
-		<title>SM+ Hypermedia</title>
+		<title>Private Ranch</title>
 		<meta charset="utf-8" />
-		<meta name="keywords" content="Once upon a time, Blockchain, investopedia, Social Media, Lifestyle, Wire, Fan, Target, Social Media Manager, Social Media News, Social Media Marketing, Social Media Girls, Social Media Icons, Influencer, Influencers, Viewpoint, Influencers in social media, Influencer Channel, USA, HOllywood, Los Angeles, Beverly Hills, UK, India, Canada, Australia, France, Germany, Sweden, Amsterdam">
-  		<meta name="SM Plus" content="SM Plus">
+		<meta name="keywords" content="Once upon a time, Private Ranch, Blockchain, investopedia, Social Media, Lifestyle, Wire, Fan, Target, Social Media Manager, Social Media News, Social Media Marketing, Social Media Girls, Social Media Icons, Influencer, Influencers, Viewpoint, Influencers in social media, Influencer Channel, USA, HOllywood, Kingman, Arizona, Los Angeles, Beverly Hills, UK, India, Canada, Australia, France, Germany, Sweden, Amsterdam">
+  		<meta name="Private Ranch" content="Private Ranch">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<script charset="UTF-8" src="//web.webpushs.com/js/push/5c904bb7ea9db820514d67764dd6d996_1.js" async></script>
-		
+				
 		 <style>
       .content p {
         border-right: .15em solid orange;
@@ -143,7 +142,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<h1>S M+</h1><p></p>
+				<h1>Private Ranch</h1><p></p>
 
 				<div class="typewriter">
   				<h1></h1>
@@ -153,14 +152,14 @@
         			Welcome!
       				</p>
       				<p>
-        			We're SM+ //Hypermedia//
+        			We're Private Ranch //Yield Farms//
       				</p>
       				<p>
         			Genesis Block...[y] 
       				</p>
     				</div>
 				
-		<script async src="https://pop-ups.sendpulse.com/assets/loader.js" data-chats-widget-id="2f9a5c56-0800-406f-be8d-33ff35e0b256"></script>
+		
 	<!-- Footer -->
 				
 			<footer id="footer">
@@ -171,16 +170,16 @@
 					
 				</ul>    
 				<ul class="copyright">
-				<li>&copy; 2023. SM Plus est 2023./ Blockchain/ Stellar Network "SMPLUS". Bitcoin Cash. "SMPLUS" "SMPH" / smplus*keybase.io
-					<a href="https://t.me/sm_plus">@SMPlusBot</a></li><li>Credits: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li>&copy; 2023. Private Ranch EST 2023./ privateranch*keybase.io
+					<a href="https://t.me/PrivateRanch_bot">@PrivateRanch_bot</a></li><li>Credits: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
 				</ul>
 				
-				<script async src="https://pop-ups.sendpulse.com/assets/loader.js" data-chats-widget-id="2f9a5c56-0800-406f-be8d-33ff35e0b256"></script>
+				
 
-				<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8469d17eb3c74d999ed78d5ffd43bef2"}'></script><!-- End Cloudflare Web Analytics -->
+				
 				</footer>
 
 		<!-- Scripts -->
 		<script src="assets/js/main.js"></script>
-		<div data-tf-popover="EePonTmo" data-tf-custom-icon="https://images.typeform.com/images/pyGcQd9exfKR" data-tf-opacity="100" data-tf-iframe-props="title=Welcome (SMP)" data-tf-transitive-search-params data-tf-button-color="#0B0B0B" style="all:unset;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+		
