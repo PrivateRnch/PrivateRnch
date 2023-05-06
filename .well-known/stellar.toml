@@ -1,0 +1,41 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://api.stellar.org/federation"
+TRANSFER_SERVER="https://api.stellar.org/auth"
+HORIZON_URL="https://horizon.stellar.org"
+
+["GB3OS2WASKLXHOALGJF2JVJMK2GUKIECDJWAEI65ULIIRGGV2EQQH4G2"]
+
+[DOCUMENTATION]
+
+ORG_NAME="AGylds Ranch"
+ORG_URL="https://privateranch.pages.dev"
+ORG_LOGO="privateranch.pages.dev/images/AGYLDS.png"
+ORG_DESCRIPTION="Ranch"
+ORG_PHYSICAL_ADDRESS="Scottsdale, AZ 85260, United States"
+ORG_PHYSICAL_ADDRESS_ATTESTATION=""
+ORG_PHONE_NUMBER="+10000000000"
+ORG_PHONE_NUMBER_ATTESTATION="privateranch.pages.dev/phn.pdf"
+ORG_KEYBASE="privateranch*keybase.io"
+
+ORG_TWITTER=""
+ORG_GITHUB=""
+ORG_OFFICIAL_EMAIL=""
+
+[[PRINCIPALS]]
+name="sass"
+email=""
+keybase=""
+twitter=""
+github=""
+id_photo_hash=""
+verification_photo_hash=""
+
+[[CURRENCIES]]
+code="AGYLDS"
+issuer="GB7SEUMCCUGWJJE6KZO5XXIRI5USQZA5PMGD6HQOBPPRXT72F2K7IWJ3"
+display_decimals=4
+name="AGylds Ranch"
+desc="Fungible base/counter cryptocurrency."
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
+image="privateranch.pages.dev/images/AGYLDS.png"
+fixed_number=20000000
