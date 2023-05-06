@@ -39,3 +39,14 @@ desc="Fungible base/counter cryptocurrency."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
 image="privateranch.pages.dev/images/AGYLDS.png"
 fixed_number=20000000
+
+[[CURRENCIES]]
+code="MEMORY"
+
+issuer="GB7SEUMCCUGWJJE6KZO5XXIRI5USQZA5PMGD6HQOBPPRXT72F2K7IWJ3"
+display_decimals=4
+name="Memory Farms"
+desc="Fungible base/counter cryptocurrency."
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
+image="privateranch.pages.dev/images/MEMORY.png"
+fixed_number=2000000
