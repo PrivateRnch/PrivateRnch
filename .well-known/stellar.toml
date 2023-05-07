@@ -37,7 +37,7 @@ display_decimals=4
 name="AGylds Ranch"
 desc="Fungible base/counter cryptocurrency."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="https://privateranch.pages.dev/images/AGYLDS.png"
+image="https://privateranch.pages.dev/images/agyldsranch.png"
 fixed_number=20000000
 
 [[CURRENCIES]]
@@ -47,5 +47,5 @@ display_decimals=4
 name="Memory Farms"
 desc="Fungible base/counter cryptocurrency."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="https://privateranch.pages.dev/images/MEMORY.png"
+image="https://privateranch.pages.dev/images/memoryfarms.png"
 fixed_number=2000000
