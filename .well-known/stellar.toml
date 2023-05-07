@@ -9,7 +9,7 @@ Accounts=["GB3OS2WASKLXHOALGJF2JVJMK2GUKIECDJWAEI65ULIIRGGV2EQQH4G2"]
 
 ORG_NAME="AGylds Ranch"
 ORG_URL="https://privateranch.pages.dev"
-ORG_LOGO="privateranch.pages.dev/images/AGYLDS.png"
+ORG_LOGO="https://privateranch.pages.dev/images/AGYLDS.png"
 ORG_DESCRIPTION="Ranch"
 ORG_PHYSICAL_ADDRESS="Scottsdale, AZ 85260, United States"
 ORG_PHYSICAL_ADDRESS_ATTESTATION="privateranch.pages.dev/Address.pdf"
@@ -37,7 +37,7 @@ display_decimals=4
 name="AGylds Ranch"
 desc="Fungible base/counter cryptocurrency."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="privateranch.pages.dev/images/AGYLDS.png"
+image="https://privateranch.pages.dev/images/AGYLDS.png"
 fixed_number=20000000
 
 [[CURRENCIES]]
@@ -47,5 +47,5 @@ display_decimals=4
 name="Memory Farms"
 desc="Fungible base/counter cryptocurrency."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="privateranch.pages.dev/images/MEMORY.png"
+image="https://privateranch.pages.dev/images/MEMORY.png"
 fixed_number=2000000
