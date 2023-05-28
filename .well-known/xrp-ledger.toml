@@ -61,4 +61,4 @@ network = "mainnet"
 
 display_decimals = 4
 
-symbol = "AGY"
+symbol = "$"
